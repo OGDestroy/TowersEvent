@@ -1,0 +1,6 @@
+name: TowersEvent
+version: '${project.version}'
+main: me.destroy.towersevent.TowersEvent
+api-version: 1.19
+authors: [ OG_Destroy ]
+description: Towers Event
